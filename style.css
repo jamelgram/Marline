@@ -58,7 +58,7 @@ body{
   border-radius: 10px;
   cursor: pointer;
   -webkit-transition: all 5s;
-  transition: all 0.5s;
+  transition: all 5s;
   -webkit-transform-origin: 0;
   -ms-transform-origin: 0;
   transform-origin: 0;
